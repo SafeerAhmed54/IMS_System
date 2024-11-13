@@ -1,0 +1,7 @@
+01,apples,fruits,200.0,1000
+02,pears,fruits,150.0,1000
+03,banana,fruits,100.0,700
+04,potatos,vegetables,50.0,1000
+05,tomatoes,vegetables,80.0,1000
+06,carrots,vegetables,40.0,700
+07,kiwi,fruits,300.0,1000

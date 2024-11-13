@@ -1,0 +1,5 @@
+admin,adminpass,Admin
+user1,userpass,User
+safeer,pak,admin
+safeer ahmed,safeer,admin
+zain,pak,User
